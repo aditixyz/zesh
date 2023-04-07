@@ -22,7 +22,7 @@
     padding-left: 24px;
     margin-bottom: 0px;
     color: #e6ecc5;
-    background-color: #e0ffa4;
+    background-color: #011538;
     border-width: 3px;
     border-style: none;
     box-shadow: 8px 8px 0 0px #ffffff;
@@ -141,7 +141,7 @@ a {
     background-attachment: fixed;
     color: #e6ecc5;
     background-position-x: 50%;
-    background-color: #011538;
+    background-color: #E0FFA4;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -173,13 +173,13 @@ a {
 }
 
 .heading3-axct7 {
-    color: #e0ffa4;
+    color: #011538;
     font-size: 24px;
     font-family: 'Poppins', sans-serif;
 }
 
 .paragraph-gondx {
-    color: #ffffff;
+    color: #011538;
     font-weight: 700;
 }
 
@@ -212,7 +212,7 @@ a {
 }
 
 .span-s38ow {
-    color: #e0ffa4;
+    color: #011538;
     font-size: 34px;
     font-family: 'Shrikhand', display;
 }
@@ -222,9 +222,9 @@ a {
 }
 
 .div-mbwuf {
-    color: #ffffff;
+    color: #000000;
     letter-spacing: 1px;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 16px;
 }
 
