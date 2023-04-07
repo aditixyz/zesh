@@ -7,7 +7,6 @@
     flex-direction: column;
     width: 70%;
     height: 20%;
-    box-shadow: 0 0 0 0 #f20000;
 }
 
 .Button {
@@ -249,13 +248,5 @@ a {
     .span-i5mp4 {
         padding: 0px;
         margin: 0px;
-    }
-}
-
-@media (max-width:414px) {
-    .Column {
-        align-items: flex-start;
-        justify-content: flex-start;
-        margin: 90px;
     }
 }
