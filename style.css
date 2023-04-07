@@ -251,10 +251,3 @@ a {
     }
 }
 
-@media (max-width:414px) {
-    .Column {
-        align-items: flex-start;
-        justify-content: flex-start;
-        margin: 90px;
-    }
-}
