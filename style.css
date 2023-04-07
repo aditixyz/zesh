@@ -7,7 +7,6 @@
     flex-direction: column;
     width: 70%;
     height: 20%;
-    box-shadow: 0 0 0 0 #f20000;
 }
 
 .Button {
@@ -73,7 +72,7 @@ nav {
     justify-content: center;
     width: 100%;
     flex-direction: row;
-    margin: 35px;
+    margin: 15px;
     font-family: 'Poppins', sans-serif;
     font-size: 24px;
 }
