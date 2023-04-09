@@ -22,7 +22,7 @@
     padding-left: 24px;
     margin-bottom: 0px;
     color: #e6ecc5;
-    background-color: #008142;
+    background-color: #FFFFFF;
     border-width: 3px;
     border-style: none;
 }
@@ -139,7 +139,7 @@ a {
     background-attachment: fixed;
     color: #e6ecc5;
     background-position-x: 50%;
-    background-color: #FFFFFF;
+    background-color: #00BF63;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -171,13 +171,13 @@ a {
 }
 
 .heading3-axct7 {
-    color: #008142;
+    color: #FFFFFF;
     font-size: 38px;
     font-family: 'Poppins', sans-serif;
 }
 
 .paragraph-gondx {
-    color: #008142;
+    color: #FFFFFF;
     font-weight: 700;
 }
 
@@ -210,7 +210,7 @@ a {
 }
 
 .span-s38ow {
-    color: #008142;
+    color: #FFFFFF;
     font-size: 34px;
     font-family: 'Fredoka One', display;
 }
